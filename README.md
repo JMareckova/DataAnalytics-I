@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JMareckova/Data_Analytics_I/main)
+
 # Data Analytics I
 *Online Material for the Data Analytics I course*
 
