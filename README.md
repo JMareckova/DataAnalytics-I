@@ -1,7 +1,7 @@
 # Data Analytics I
 *Online Material for the Data Analytics I course*
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JMareckova/Data_Analytics_I/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JMareckova/Data_Analytics_I)
 
 This repository contains additional material for the Data Analytics I course. The material is created for educational purposes and serves students to get familiar with the R code and visualization of results.
 
